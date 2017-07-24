@@ -6,6 +6,8 @@ class PartyGuest < ActiveRecord::Migration[5.0]
       t.string :dietary_restrictions
       t.integer :salary
       t.integer :number_of_kids
-      
+
   end
 end
+
+end 
